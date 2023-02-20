@@ -1,7 +1,7 @@
 const STContainer = document.querySelector(".stinfo")
 
 function startLoad() {
-    STContainer.innerHTML = `<img class="loadingGif" src="./resources/giphy.gif"></img>`
+    STContainer.innerHTML = `<img class="loadingGif" src="./resources/loading.gif"></img>`
 }
 
 async function STDetails() {

@@ -4,7 +4,7 @@ const STContainer = document.querySelector(".stinfo")
 const STEplist = document.querySelector(".eplist")
 
 function startLoad() {
-    STContainer.innerHTML = `<img class="loadingGif" src="./resources/giphy.gif"></img>`
+    STContainer.innerHTML = `<img class="loadingGif" src="./resources/loading.gif"></img>`
 }
 
 
